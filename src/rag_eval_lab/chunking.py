@@ -1,7 +1,6 @@
 """Markdown-aware chunking with metadata.
 
-Upstream example split on '\\n## ' only. Here we keep the heading as metadata,
-strip a small amount of markdown noise, and split over-long sections into
+The heading is kept as metadata, a small amount of markdown noise is stripped, and split over-long sections into
 overlapping windows of words so every chunk stays a predictable size.
 """
 from __future__ import annotations
