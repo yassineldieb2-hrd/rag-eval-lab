@@ -1,0 +1,6 @@
+21 chunks, 22 questions, embedder=hashing, store=memory
+
+mode       hit@1   hit@3   hit@5     mrr
+vector      0.36    0.64    0.77    0.52
+keyword     0.73    0.91    0.91    0.80
+hybrid      0.64    0.77    0.86    0.73

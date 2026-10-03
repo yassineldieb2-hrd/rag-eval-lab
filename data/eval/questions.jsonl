@@ -1,0 +1,22 @@
+{"question": "How long do I have to send an item back?", "source": "refunds", "heading": "Return window"}
+{"question": "When will the money for my return show up on my card?", "source": "refunds", "heading": "How refunds are paid"}
+{"question": "My package came broken, what should I do?", "source": "refunds", "heading": "Damaged or wrong items"}
+{"question": "Can I return a gift card?", "source": "refunds", "heading": "Return window"}
+{"question": "How fast is express delivery and what does it cost?", "source": "shipping", "heading": "Delivery times"}
+{"question": "What order value gets free shipping?", "source": "shipping", "heading": "Free shipping"}
+{"question": "The tracking link has not updated for a week", "source": "shipping", "heading": "Tracking a parcel"}
+{"question": "Do I pay customs when ordering to Switzerland?", "source": "shipping", "heading": "International orders"}
+{"question": "My password reset link does not work anymore", "source": "accounts", "heading": "Resetting your password"}
+{"question": "Does two-factor login support text messages?", "source": "accounts", "heading": "Two-factor authentication"}
+{"question": "How long are invoices kept after I delete my account?", "source": "accounts", "heading": "Deleting your account"}
+{"question": "How do I change the email address on my profile?", "source": "accounts", "heading": "Changing your email"}
+{"question": "What is the difference between Basic and Plus?", "source": "subscriptions", "heading": "Plans"}
+{"question": "If I cancel mid-month do I get money back?", "source": "subscriptions", "heading": "Cancelling"}
+{"question": "What happens when my card is declined?", "source": "subscriptions", "heading": "Failed payments"}
+{"question": "Can I add my VAT number to an invoice that was already issued?", "source": "subscriptions", "heading": "Invoices"}
+{"question": "What does the warranty not cover?", "source": "warranty", "heading": "Coverage"}
+{"question": "How do I send my device in for repair?", "source": "warranty", "heading": "Starting a repair"}
+{"question": "My battery only holds 70 percent after 8 months", "source": "warranty", "heading": "Battery replacement"}
+{"question": "How can I get a copy of all the data you hold on me?", "source": "privacy", "heading": "Requesting your data"}
+{"question": "Do you keep my credit card number?", "source": "privacy", "heading": "What we store"}
+{"question": "How do I stop promotional emails?", "source": "privacy", "heading": "Marketing emails"}
